@@ -1,4 +1,4 @@
-My old C# from starting around 2021, mainly for college/uni modules
+My old C# from starting around 2021, mainly for college/uni modules as programming tutorials and exercises
 
 *Projects:*
 
@@ -10,4 +10,6 @@ My old C# from starting around 2021, mainly for college/uni modules
 
 * Rock Paper Scissors - Digital recreation of "Rock Paper Scissors" played aginst a basic AI opponent
 
-* Folder Slide Show - program that takes in a folder of iamges and display a "slideshow" of the images in that folder
+* Folder Slide Show - Program that takes in a folder of iamges and display a "slideshow" of the images in that folder
+
+* Slides with Loops - Variant of the slideshow program takes images next to the .exe and can either scroll through them manually or through a automatic slideshow
