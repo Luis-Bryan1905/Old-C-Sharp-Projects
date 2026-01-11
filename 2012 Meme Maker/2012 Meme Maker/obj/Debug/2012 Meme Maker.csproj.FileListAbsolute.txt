@@ -1,0 +1,10 @@
+D:\School Work\Visual Studio\2012 Meme Maker\2012 Meme Maker\bin\Debug\2012 Meme Maker.exe.config
+D:\School Work\Visual Studio\2012 Meme Maker\2012 Meme Maker\bin\Debug\2012 Meme Maker.exe
+D:\School Work\Visual Studio\2012 Meme Maker\2012 Meme Maker\bin\Debug\2012 Meme Maker.pdb
+D:\School Work\Visual Studio\2012 Meme Maker\2012 Meme Maker\obj\Debug\2012 Meme Maker.csprojAssemblyReference.cache
+D:\School Work\Visual Studio\2012 Meme Maker\2012 Meme Maker\obj\Debug\_2012_Meme_Maker.Form1.resources
+D:\School Work\Visual Studio\2012 Meme Maker\2012 Meme Maker\obj\Debug\_2012_Meme_Maker.Properties.Resources.resources
+D:\School Work\Visual Studio\2012 Meme Maker\2012 Meme Maker\obj\Debug\2012 Meme Maker.csproj.GenerateResource.cache
+D:\School Work\Visual Studio\2012 Meme Maker\2012 Meme Maker\obj\Debug\2012 Meme Maker.csproj.CoreCompileInputs.cache
+D:\School Work\Visual Studio\2012 Meme Maker\2012 Meme Maker\obj\Debug\2012 Meme Maker.exe
+D:\School Work\Visual Studio\2012 Meme Maker\2012 Meme Maker\obj\Debug\2012 Meme Maker.pdb
