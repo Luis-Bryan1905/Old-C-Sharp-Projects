@@ -1,0 +1,10 @@
+D:\School Work\Visual Studio\2d Platformer Tutorial\2d Platformer Tutorial\bin\Debug\2d Platformer Tutorial.exe.config
+D:\School Work\Visual Studio\2d Platformer Tutorial\2d Platformer Tutorial\bin\Debug\2d Platformer Tutorial.exe
+D:\School Work\Visual Studio\2d Platformer Tutorial\2d Platformer Tutorial\bin\Debug\2d Platformer Tutorial.pdb
+D:\School Work\Visual Studio\2d Platformer Tutorial\2d Platformer Tutorial\obj\Debug\2d Platformer Tutorial.csprojAssemblyReference.cache
+D:\School Work\Visual Studio\2d Platformer Tutorial\2d Platformer Tutorial\obj\Debug\_2d_Platformer_Tutorial.Form1.resources
+D:\School Work\Visual Studio\2d Platformer Tutorial\2d Platformer Tutorial\obj\Debug\_2d_Platformer_Tutorial.Properties.Resources.resources
+D:\School Work\Visual Studio\2d Platformer Tutorial\2d Platformer Tutorial\obj\Debug\2d Platformer Tutorial.csproj.GenerateResource.cache
+D:\School Work\Visual Studio\2d Platformer Tutorial\2d Platformer Tutorial\obj\Debug\2d Platformer Tutorial.csproj.CoreCompileInputs.cache
+D:\School Work\Visual Studio\2d Platformer Tutorial\2d Platformer Tutorial\obj\Debug\2d Platformer Tutorial.exe
+D:\School Work\Visual Studio\2d Platformer Tutorial\2d Platformer Tutorial\obj\Debug\2d Platformer Tutorial.pdb

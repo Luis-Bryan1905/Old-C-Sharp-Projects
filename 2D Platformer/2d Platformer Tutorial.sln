@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2d Platformer Tutorial", "2d Platformer Tutorial\2d Platformer Tutorial.csproj", "{FEDF7D06-9223-4908-8517-2C073A2E9E11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEDF7D06-9223-4908-8517-2C073A2E9E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDF7D06-9223-4908-8517-2C073A2E9E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDF7D06-9223-4908-8517-2C073A2E9E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDF7D06-9223-4908-8517-2C073A2E9E11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B310724C-1C01-4296-A7F9-65424CA2FA62}
+	EndGlobalSection
+EndGlobal
