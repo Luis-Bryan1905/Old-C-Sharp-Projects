@@ -1,0 +1,10 @@
+D:\School Work\Visual Studio\Folder Slide Show\Folder Slide Show\obj\Debug\Folder Slide Show.csprojAssemblyReference.cache
+D:\School Work\Visual Studio\Folder Slide Show\Folder Slide Show\obj\Debug\Folder_Slide_Show.Form1.resources
+D:\School Work\Visual Studio\Folder Slide Show\Folder Slide Show\obj\Debug\Folder_Slide_Show.Properties.Resources.resources
+D:\School Work\Visual Studio\Folder Slide Show\Folder Slide Show\obj\Debug\Folder Slide Show.csproj.GenerateResource.cache
+D:\School Work\Visual Studio\Folder Slide Show\Folder Slide Show\obj\Debug\Folder Slide Show.csproj.CoreCompileInputs.cache
+D:\School Work\Visual Studio\Folder Slide Show\Folder Slide Show\bin\Debug\Folder Slide Show.exe.config
+D:\School Work\Visual Studio\Folder Slide Show\Folder Slide Show\bin\Debug\Folder Slide Show.exe
+D:\School Work\Visual Studio\Folder Slide Show\Folder Slide Show\bin\Debug\Folder Slide Show.pdb
+D:\School Work\Visual Studio\Folder Slide Show\Folder Slide Show\obj\Debug\Folder Slide Show.exe
+D:\School Work\Visual Studio\Folder Slide Show\Folder Slide Show\obj\Debug\Folder Slide Show.pdb
