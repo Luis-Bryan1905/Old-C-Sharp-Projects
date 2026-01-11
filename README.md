@@ -7,3 +7,5 @@ My old C# from starting around 2021, mainly for college/uni modules
 * 2012 meme maker - Program that takes in a image and two texts to place on the top and bottom of the image to create a "classic meme"-like image
 
 * Interest Calculator - Program that takes in three amounts (Interest Rate, Months, and Amount) uses calculation to provide the final amount after total interest
+
+* Rock Paper Scissors - Digital recreation of "Rock Paper Scissors" played aginst a basic AI opponent

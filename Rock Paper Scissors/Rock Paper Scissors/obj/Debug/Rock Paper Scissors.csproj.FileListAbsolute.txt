@@ -1,0 +1,19 @@
+D:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.csprojAssemblyReference.cache
+D:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Form1.resources
+D:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Properties.Resources.resources
+D:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.csproj.GenerateResource.cache
+D:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.csproj.CoreCompileInputs.cache
+D:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe.config
+D:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe
+D:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.pdb
+D:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.exe
+D:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.pdb
+E:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe.config
+E:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe
+E:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.pdb
+E:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.csprojAssemblyReference.cache
+E:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Form1.resources
+E:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Properties.Resources.resources
+E:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.csproj.GenerateResource.cache
+E:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.exe
+E:\School Work\Visual Studio\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.pdb
