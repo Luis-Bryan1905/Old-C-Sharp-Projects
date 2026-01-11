@@ -5,3 +5,5 @@ My old C# from starting around 2021, mainly for college/uni modules
 * Caesar Cipher encryption - Program that takes in a text and shift amount to create a new encrypted text
 
 * 2012 meme maker - Program that takes in a image and two texts to place on the top and bottom of the image to create a "classic meme"-like image
+
+* Interest Calculator - Program that takes in three amounts (Interest Rate, Months, and Amount) uses calculation to provide the final amount after total interest

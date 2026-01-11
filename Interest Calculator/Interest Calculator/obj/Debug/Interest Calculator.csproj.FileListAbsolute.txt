@@ -1,0 +1,10 @@
+D:\School Work\Visual Studio\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe.config
+D:\School Work\Visual Studio\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe
+D:\School Work\Visual Studio\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.pdb
+D:\School Work\Visual Studio\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csprojAssemblyReference.cache
+D:\School Work\Visual Studio\Interest Calculator\Interest Calculator\obj\Debug\Interest_Calculator.Form1.resources
+D:\School Work\Visual Studio\Interest Calculator\Interest Calculator\obj\Debug\Interest_Calculator.Properties.Resources.resources
+D:\School Work\Visual Studio\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csproj.GenerateResource.cache
+D:\School Work\Visual Studio\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csproj.CoreCompileInputs.cache
+D:\School Work\Visual Studio\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.exe
+D:\School Work\Visual Studio\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.pdb
