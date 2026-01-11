@@ -1,0 +1,10 @@
+D:\School Work\Visual Studio\UCAS Calculator\UCAS Calculator\obj\Debug\UCAS Calculator.csprojAssemblyReference.cache
+D:\School Work\Visual Studio\UCAS Calculator\UCAS Calculator\obj\Debug\UCAS_Calculator.Form1.resources
+D:\School Work\Visual Studio\UCAS Calculator\UCAS Calculator\obj\Debug\UCAS_Calculator.Properties.Resources.resources
+D:\School Work\Visual Studio\UCAS Calculator\UCAS Calculator\obj\Debug\UCAS Calculator.csproj.GenerateResource.cache
+D:\School Work\Visual Studio\UCAS Calculator\UCAS Calculator\obj\Debug\UCAS Calculator.csproj.CoreCompileInputs.cache
+D:\School Work\Visual Studio\UCAS Calculator\UCAS Calculator\bin\Debug\UCAS Calculator.exe.config
+D:\School Work\Visual Studio\UCAS Calculator\UCAS Calculator\bin\Debug\UCAS Calculator.exe
+D:\School Work\Visual Studio\UCAS Calculator\UCAS Calculator\bin\Debug\UCAS Calculator.pdb
+D:\School Work\Visual Studio\UCAS Calculator\UCAS Calculator\obj\Debug\UCAS Calculator.exe
+D:\School Work\Visual Studio\UCAS Calculator\UCAS Calculator\obj\Debug\UCAS Calculator.pdb

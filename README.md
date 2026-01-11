@@ -13,3 +13,5 @@ My old C# from starting around 2021, mainly for college/uni modules as programmi
 * Folder Slide Show - Program that takes in a folder of iamges and display a "slideshow" of the images in that folder
 
 * Slides with Loops - Variant of the slideshow program takes images next to the .exe and can either scroll through them manually or through a automatic slideshow
+
+* UCAS Calculator - Takes in UCAS grades (PP, MP, MM, DM & DD) and returns a points score from it
